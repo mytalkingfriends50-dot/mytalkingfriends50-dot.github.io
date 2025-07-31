@@ -1,0 +1,4 @@
+this.img = document.createElement("img");
+this.img.src = "https://image2url.com/images/1753926379904-e8f14480-bf1b-417b-a7e3-355b1a4dad89.jpeg";
+src = getElementById("gamediv");
+src.appendChild(this.img)
